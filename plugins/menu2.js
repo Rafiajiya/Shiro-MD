@@ -29,13 +29,13 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-┏━━「 ${wm} 」━⬣
+┏━━「 𝙎𝙃𝙄𝙍𝙊-𝙈𝘿 」━⬣
 ┃⬡📊 *Version*: %version
 ┃⬡🗃️ *Lib*: Baileys-MD
 ┃⬡🧪 *Mode:* ${global.opts['self'] ? 'Self' : 'publik'}
 ┃⬡⏰ *Uptime:* %uptime
 ┗⬣
-┏━━⬣ 𝙄𝙉𝙁𝙊 𝙐𝙎𝙀𝙍
+┏━━⬣ 𝙄𝙉𝙁𝙊 𝙐𝙎𝙀𝙍 ━⬣
 ┃⬡ 📇 *Name*:  %name 
 ┃⬡ 🆔 *Status*: ---
 ┃⬡ 🎫 *Limit*: %limit
@@ -46,18 +46,16 @@ const defaultMenu = {
 ┃⬡ 💲Premium : ${global.prem ? '✅' : '❌'}
 ┗⬣
 ┏━━⬣ 𝙄𝙉𝙁𝙊 𝙎𝙏𝘼𝙏𝙐𝙎
-┃
 ┃⬡ *${Object.keys(global.db.data.users).length}* Pengguna
 ┃⬡ *${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}* Chat Terbanned
 ┃⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
-┃
 ┗⬣
   %readmore`.trimStart(), 
     header: '┏━━「 %category 」━⬣',
     body: '┃ ◇ %cmd %islimit %isPremium',
     footer: '┗━━━━━━⬣\n',
     after: `
-*%npmname@^%version*
+*ꜱʜɪʀᴏ-ᴍᴅ@^%version*
 ${'```%npmdesc```'}
 `,
 }
@@ -166,7 +164,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
          hydratedTemplate: {
            hydratedContentText: text.trim(),
            locationMessage: { 
-           jpegThumbnail: fs.readFileSync('./src/welcome.jpg') },
+           jpegThumbnail: fs.readFileSync('./src/menu.jpg') },
            hydratedFooterText: `Ⓛ=limit Ⓟ=premium`,
            hydratedButtons: [{
              urlButton: {
@@ -178,7 +176,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
              {
              urlButton: {
                displayText: 'Owner',
-               PhoneNumber: 'https://wa.me/17608914335'
+               PhoneNumber: 'https://wa.me/6287892711054'
              }
 
            },
