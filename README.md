@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea5fe983-3ed6-4652-84a4-933a663d784b/deytppn-e87cdb19-ad39-4247-b629-9dcede510a32.jpg/v1/fill/w_1280,h_1278,q_75,strp/marin_kitagawa_by_eynight74_deytppn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI3OCIsInBhdGgiOiJcL2ZcL2VhNWZlOTgzLTNlZDYtNDY1Mi04NGE0LTkzM2E2NjNkNzg0YlwvZGV5dHBwbi1lODdjZGIxOS1hZDM5LTQyNDctYjYyOS05ZGNlZGU1MTBhMzIuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.pFnKndipzybcE3VAU2em7bK1wORwu9UZGgFUDpccpsw" alt="MARIN MD" width="250"/>
+<img src="https://telegra.ph/file/710e1037efc642dccede7.jpg" alt="SHIRO-MD" width="250"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="MARIN MD" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI,DAN JANGAN LUPA GANTI APIKEY NYA SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SHIRO-MD" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI,DAN JANGAN LUPA GANTI APIKEY NYA SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 </p>
